@@ -25,11 +25,10 @@ The directory `iSpeech_proc` contains the preprocessed fMRI and EEG data of the 
 ```
 iSpeech_proc
   ├── EEG-proc
-  │		└── epoched
-  │				└── epoched
-  │		    	       ├── subject01_eeg-epo.fif.gz
-  │		    	       ├── ...
-  │		     	       └── subject05_eeg-epo.fif.gz
+  │     └── epoched
+  │             ├── subject01_eeg-epo.fif.gz
+  │             ├── ...
+  │             └── subject05_eeg-epo.fif.gz
   └── fMRI-proc
         ├── labels
         │       ├── single_condition_subject1_session1.txt
@@ -38,13 +37,13 @@ iSpeech_proc
         │       
         ├── sub-01
         │       ├── single_trial_sess1
-		│		│		├── beta_0001.nii
-		│		│		├── ...
-		│		│		└── sub2_sess1_betas_4D.nii
+        │       │       ├── beta_0001.nii
+        │       │       ├── ...
+        │       │       └── sub2_sess1_betas_4D.nii
         │       └── single_trial_sess2
-		│				├── beta_0001.nii
-		│				├── ...
-		│				└── sub2_sess2_betas_4D.nii
+        │               ├── beta_0001.nii
+        │               ├── ...
+        │               └── sub2_sess2_betas_4D.nii
         ├── ...
         │
         └── sub-05
