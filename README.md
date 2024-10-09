@@ -40,6 +40,7 @@ iSpeech_proc
         │       │       ├── beta_0001.nii
         │       │       ├── ...
         │       │       └── sub2_sess1_betas_4D.nii
+        │       │
         │       └── single_trial_sess2
         │               ├── beta_0001.nii
         │               ├── ...
