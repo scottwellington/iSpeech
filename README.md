@@ -1,3 +1,5 @@
+**UPDATE**
+`EMBC_fusion_classification_early_late.ipynb` is the jupyter notebook code containing the complete classification pipeline introduced in paper [2].
 
 ---
 ---
